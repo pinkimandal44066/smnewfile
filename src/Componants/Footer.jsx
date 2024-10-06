@@ -88,14 +88,14 @@ const Footer = () => {
                   </NavLink>
                 </li>
 
-                {/* <li>
+                <li>
                   <NavLink
                     to="/Termsofservice"
                     className="text-lg hover:text-gray-400"
                   >
                     Terms of Service
                   </NavLink>
-                </li> */}
+                </li>
 
                 {/* <li>
                   <NavLink to="/career" className="text-lg hover:text-gray-400">
@@ -104,11 +104,11 @@ const Footer = () => {
                 </li> */}
 
 
-{/* <li  className="text-lg hover:text-gray-400">
+<li  className="text-lg hover:text-gray-400">
                   <NavLink to="/career" className="text-lg hover:text-gray-400">
                     Careers
                   </NavLink>
-                </li> */}
+                </li>
               </ul>
             </div>
 

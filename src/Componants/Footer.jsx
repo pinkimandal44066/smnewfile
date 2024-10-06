@@ -104,11 +104,11 @@ const Footer = () => {
                 </li> */}
 
 
-<li  className="text-lg hover:text-gray-400">
+{/* <li  className="text-lg hover:text-gray-400">
                   <NavLink to="/career" className="text-lg hover:text-gray-400">
                     Careers
                   </NavLink>
-                </li>
+                </li> */}
               </ul>
             </div>
 
